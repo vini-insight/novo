@@ -34,3 +34,5 @@ git fetch
 
 git pull
 
+hot to make a pull request?
+

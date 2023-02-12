@@ -36,3 +36,21 @@ git pull
 
 hot to make a pull request?
 
+git fetch
+
+git pull
+
+git status
+
+git add.
+
+git git status
+
+git commit -m "MESSAGE"
+
+git git status
+
+git push
+
+git git status
+
